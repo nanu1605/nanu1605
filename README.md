@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently employed in Bosch Global Software Technologies<br>👯 I’m a DevOps Engineer<br>📫 How to reach me tanishqjain010@gmail.com<br>📄 Want to Know more about my experiences? Here is my resume<br>⚡ Fun fact I am unique, just like everyone else
+🔭 I am currently employed in Bosch Global Software Technologies<br>👯 I’m a DevOps Engineer<br>📫 How to reach me tanishqjain010@gmail.com<br>📄 Want to Know more about my experiences? Here is my [resume](https://drive.google.com/file/d/10fV8XydjsAj0zndswkr7EQ2Ri8aM_EEz/view?usp=sharing)<br>⚡ Fun fact I am unique, just like everyone else
 
 
 ## 🌐 Socials:
